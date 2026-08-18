@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "maintenance": {
+    "enabled": false,
+    "title": "Mantenimiento",
+    "message": "Estamos preparando una actualización. Intenta nuevamente más tarde."
+  },
+  "youtube": {
+    "requireSubscriptionStep": true,
+    "channelName": "@Shin_sh",
+    "channelUrl": "https://www.youtube.com/@Shin_sh"
+  },
+  "appUpdate": {
+    "enabled": false,
+    "mandatory": false,
+    "versionCode": 7,
+    "versionName": "5.1",
+    "apkUrls": [],
+    "sha256": "",
+    "message": ""
+  },
+  "gameFiles": [
+    {
+      "id": "pvzh_data_assets_43",
+      "version": 2,
+      "name": "data_assets_43",
+      "destination": "/storage/emulated/0/Android/data/com.ea.gp.pvzheroes/files/cache/bundles/files/data_assets_43",
+      "expectedSize": 6632992,
+      "sha256": "",
+      "force": false,
+      "urls": [
+        "https://drive.usercontent.google.com/download?id=1a1r7jI7CA_D541PtnCRhKyz2ss8Tivfb&export=download&confirm=t",
+      ]
+    }
+  ]
+}
