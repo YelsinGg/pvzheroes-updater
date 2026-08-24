@@ -11,7 +11,7 @@
     "channelUrl": "https://www.youtube.com/@Shin_sh"
   },
   "appUpdate": {
-    "enabled": true,
+    "enabled": false,
     "mandatory": false,
     "versionCode": 8,
     "versionName": "6.1",
