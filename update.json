@@ -11,12 +11,12 @@
     "channelUrl": "https://www.youtube.com/@Shin_sh"
   },
   "appUpdate": {
-    "enabled": false,
+    "enabled": true,
     "mandatory": false,
-    "versionCode": 8,
-    "versionName": "6.1",
+    "versionCode": 10,
+    "versionName": "6.1.2",
     "apkUrls": [
-      "https://drive.usercontent.google.com/download?id=1gXkCLizxc709s25X2NIyGUkWbDEt86IC&export=download&confirm=t"
+      "https://drive.usercontent.google.com/download?id=1GHFjTXPNrG2tsOGvPlgAqyOE05ET0nNj&export=download&confirm=t"
     ],
     "sha256": "",
     "message": "Nueva versión 6.1 disponible"
