@@ -11,13 +11,15 @@
     "channelUrl": "https://www.youtube.com/@Shin_sh"
   },
   "appUpdate": {
-    "enabled": false,
+    "enabled": true,
     "mandatory": false,
-    "versionCode": 7,
-    "versionName": "5.1",
-    "apkUrls": [],
+    "versionCode": 8,
+    "versionName": "6.1",
+    "apkUrls": [
+      "https://drive.usercontent.google.com/download?id=1gXkCLizxc709s25X2NIyGUkWbDEt86IC&export=download&confirm=t"
+    ],
     "sha256": "",
-    "message": ""
+    "message": "Nueva versión 6.1 disponible"
   },
   "gameFiles": [
     {
