@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "maintenance": {
     "enabled": false,
     "title": "Mantenimiento",
@@ -12,14 +12,15 @@
   },
   "appUpdate": {
     "enabled": true,
-    "mandatory": false,
-    "versionCode": 10,
-    "versionName": "6.1.2",
+    "mandatory": true,
+    "versionCode": 11,
+    "versionName": "6.2",
     "apkUrls": [
-      "https://drive.usercontent.google.com/download?id=1M2qEK_Hsy6StWGFSE1vTT38eRlHJ20wz&export=download&confirm=t"
+      "https://drive.usercontent.google.com/download?id=1xNqDWAp_3KHgSLS5So-z9MC5OBaDnKDe&export=download&confirm=t",
+      "https://drive.google.com/uc?export=download&id=1xNqDWAp_3KHgSLS5So-z9MC5OBaDnKDe"
     ],
-    "sha256": "",
-    "message": "Nueva versión 6.1.2 disponible"
+    "sha256": "96974B98059B52D0154DDA3FF8F4D894FAC75F3B8D1819F431A47C348F25295D",
+    "message": "Nueva versión 6.2 disponible con Diamantes Infinitos y Todos los Héroes."
   },
   "gameFiles": [
     {
@@ -27,11 +28,43 @@
       "version": 2,
       "name": "data_assets_43",
       "destination": "/storage/emulated/0/Android/data/com.ea.gp.pvzheroes/files/cache/bundles/files/data_assets_43",
+      "matchPrefix": "data_assets_",
       "expectedSize": 6632992,
-      "sha256": "",
+      "sha256": "SHA256_DEL_ARCHIVO",
       "force": false,
       "urls": [
         "https://drive.usercontent.google.com/download?id=1a1r7jI7CA_D541PtnCRhKyz2ss8Tivfb&export=download&confirm=t",
+        "https://drive.usercontent.google.com/download?id=1a1r7jI7CA_D541PtnCRhKyz2ss8Tivfb&export=download&confirm=t"
+      ]
+    },
+    {
+      "id": "pvzh_player_inventory",
+      "version": 1,
+      "name": "PlayerInventory",
+      "destination": "/data/data/com.ea.gp.pvzheroes/files/PlayerData",
+      "matchPrefix": "PlayerInventory",
+      "copyToChildDirectories": true,
+      "expectedSize": 1963,
+      "sha256": "",
+      "force": true,
+      "urls": [
+        "https://drive.usercontent.google.com/download?id=1SxUEKOM_1ShJ7C9UF8Wn40OZrs668iv2&export=download&confirm=t",
+        "https://drive.google.com/uc?export=download&id=1SxUEKOM_1ShJ7C9UF8Wn40OZrs668iv2"
+      ]
+    },
+    {
+      "id": "pvzh_player_inventory_delta",
+      "version": 1,
+      "name": "PlayerInventoryDelta",
+      "destination": "/data/data/com.ea.gp.pvzheroes/files/PlayerData",
+      "matchPrefix": "PlayerInventoryDelta",
+      "copyToChildDirectories": true,
+      "expectedSize": 1963,
+      "sha256": "",
+      "force": true,
+      "urls": [
+        "https://drive.usercontent.google.com/download?id=1nSWgyDHq0LdXcJs1h7lFurvKvmCPVnSF&export=download&confirm=t",
+        "https://drive.google.com/uc?export=download&id=1nSWgyDHq0LdXcJs1h7lFurvKvmCPVnSF"
       ]
     }
   ]
