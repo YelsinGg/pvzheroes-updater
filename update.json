@@ -13,13 +13,13 @@
   "appUpdate": {
     "enabled": true,
     "mandatory": true,
-    "versionCode": 11,
+    "versionCode": 12,
     "versionName": "6.2",
     "apkUrls": [
-      "https://drive.usercontent.google.com/download?id=1xNqDWAp_3KHgSLS5So-z9MC5OBaDnKDe&export=download&confirm=t",
-      "https://drive.google.com/uc?export=download&id=1xNqDWAp_3KHgSLS5So-z9MC5OBaDnKDe"
+      "https://drive.usercontent.google.com/download?id=1ryLZrzLxk3pyXB2ARcKGSGLIRTQ0QFOi&export=download&confirm=t",
+      "https://drive.google.com/uc?export=download&id=1ryLZrzLxk3pyXB2ARcKGSGLIRTQ0QFOi"
     ],
-    "sha256": "96974B98059B52D0154DDA3FF8F4D894FAC75F3B8D1819F431A47C348F25295D",
+    "sha256": "30810619465468434D78D143C84110E540BD975C885E52C8CA5C8855F4831BA1",
     "message": "Nueva versión 6.2 disponible con Diamantes Infinitos y Todos los Héroes."
   },
   "gameFiles": [
@@ -30,11 +30,11 @@
       "destination": "/storage/emulated/0/Android/data/com.ea.gp.pvzheroes/files/cache/bundles/files/data_assets_43",
       "matchPrefix": "data_assets_",
       "expectedSize": 6632992,
-      "sha256": "SHA256_DEL_ARCHIVO",
+      "sha256": "",
       "force": false,
       "urls": [
         "https://drive.usercontent.google.com/download?id=1a1r7jI7CA_D541PtnCRhKyz2ss8Tivfb&export=download&confirm=t",
-        "https://drive.usercontent.google.com/download?id=1a1r7jI7CA_D541PtnCRhKyz2ss8Tivfb&export=download&confirm=t"
+        "https://drive.google.com/uc?export=download&id=1a1r7jI7CA_D541PtnCRhKyz2ss8Tivfb"
       ]
     },
     {
